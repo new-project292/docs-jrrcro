@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-d8w3br.biggamingwin.online/sitemap.xml
